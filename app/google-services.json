@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "203832705847",
+    "project_id": "hogar-verde-125d4",
+    "storage_bucket": "hogar-verde-125d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203832705847:android:2fcf5188ffb78fe36750b2",
+        "android_client_info": {
+          "package_name": "com.example.hogarverde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203832705847-hfsp16uatd8rj0dal328qucjg8b7pvot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBguSy79kR1xqHvr3NsBPbGRroiensedS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203832705847-hfsp16uatd8rj0dal328qucjg8b7pvot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203832705847:android:219fc71a9320f99f6750b2",
+        "android_client_info": {
+          "package_name": "com.example.proyecto101"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203832705847-hfsp16uatd8rj0dal328qucjg8b7pvot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBguSy79kR1xqHvr3NsBPbGRroiensedS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203832705847-hfsp16uatd8rj0dal328qucjg8b7pvot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
