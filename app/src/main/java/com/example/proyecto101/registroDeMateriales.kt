@@ -24,7 +24,9 @@ class registroDeMateriales : AppCompatActivity() {
 		startWindows.setOnClickListener {
 			val intent:Intent = Intent(this, MainActivity::class.java)
 			startActivity(intent)
+			finish()
 		}
+
 	}
 
 	fun menuDesplegable(){
