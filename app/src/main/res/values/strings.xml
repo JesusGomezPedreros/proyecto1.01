@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">proyecto1.01</string>
+    <string-array name="materials_gather">
+        <item>Cobre</item>
+        <item>Brance</item>
+        <item>Aluminio</item>
+        <item>Perfil</item>
+        <item>Antimonio</item>
+        <item>Plomo</item>
+        <item>Acrilico</item>
+        <item>Baterias(Tierra)</item>
+        <item>Canastillas</item>
+        <item>Archivo</item>
+        <item>Carton</item>
+        <item>Plegadisa</item>
+        <item>Revista</item>
+        <item>Tapas</item>
+        <item>PVC Rigido</item>
+        <item>PVC Blando</item>
+        <item>Periodico</item>
+        <item>Baterias</item>
+        <item>Chatarra</item>
+        <item>PET(Botella Plastica)</item>
+        <item>Bolsa</item>
+        <item>Cable</item>
+        <item>Alambrado</item>
+        <item>Vidrio</item>
+    </string-array>
+</resources>
