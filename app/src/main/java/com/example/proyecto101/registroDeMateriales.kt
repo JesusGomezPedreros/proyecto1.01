@@ -28,7 +28,7 @@ class registroDeMateriales : AppCompatActivity() {
 		}
 
 	}
-
+	// funcion de menu desplegable
 	fun menuDesplegable(){
 		val materialsGather = resources.getStringArray(R.array.materials_gather)
 		val adapter = ArrayAdapter(

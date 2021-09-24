@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">proyecto1.01</string>
+    //array de menu desplegable
     <string-array name="materials_gather">
         <item>Cobre</item>
         <item>Brance</item>
@@ -26,4 +27,5 @@
         <item>Alambrado</item>
         <item>Vidrio</item>
     </string-array>
+    //final Array menu desplegable
 </resources>
