@@ -63,7 +63,7 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:hint="Correo Electronico"
-            android:inputType="textEmailAddress" />
+            android:inputType="textPersonName" />
 
         <EditText
             android:id="@+id/TextPhone"
@@ -80,6 +80,17 @@
             android:ems="10"
             android:hint="Direccion"
             android:inputType="textPostalAddress" />
+
+        <EditText
+            android:id="@+id/editTextDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Seleccionar Dia"
+            android:clickable="false"
+            android:focusable="false"
+            android:ems="10"
+            android:inputType="textPersonName"
+             />
 
         <com.google.android.material.textfield.TextInputLayout
             style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
