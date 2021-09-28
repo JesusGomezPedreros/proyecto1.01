@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Proyecto101">
         <activity
+            android:name=".Gatherer"
+            android:exported="true" />
+        <activity
             android:name=".registroDeMateriales"
             android:exported="true" />
         <activity

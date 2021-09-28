@@ -7,8 +7,8 @@
     tools:context=".MainActivity">
 
     <LinearLayout
-        android:layout_width="400dp"
-        android:layout_height="84dp"
+        android:layout_width="394dp"
+        android:layout_height="101dp"
         android:layout_marginStart="2dp"
         android:layout_marginEnd="2dp"
         android:orientation="vertical"
@@ -20,5 +20,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Registrar Material" />
+
+        <Button
+            android:id="@+id/AgendaRecolector"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Agenda de Recolectores" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -20,5 +20,11 @@ class MainActivity : AppCompatActivity() {
 				startActivity(intent)
 			finish()
 		}
+
+		AgendaRecolector.setOnClickListener{
+			val intent:Intent = Intent(this, Gatherer::class.java)
+			startActivity(intent)
+
+		}
 	}
 }
