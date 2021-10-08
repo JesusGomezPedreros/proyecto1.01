@@ -3,7 +3,7 @@
     //array de menu desplegable
     <string-array name="materials_gather">
         <item>Cobre</item>
-        <item>Brance</item>
+        <item>Bronce</item>
         <item>Aluminio</item>
         <item>Perfil</item>
         <item>Antimonio</item>

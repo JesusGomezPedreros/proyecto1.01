@@ -10,13 +10,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Proyecto101">
         <activity
+            android:name=".ForgotPassActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
             android:name=".Gatherer"
             android:exported="true" />
         <activity
             android:name=".registroDeMateriales"
             android:exported="true" />
         <activity
-            android:name=".MainActivity"
+            android:name=".loginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

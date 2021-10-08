@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Julmot/AndroidStudioProjects/proyecto101/app/src/main/res/layout/activity_forgot_pass.xml" value="0.1693840579710145" />
         <entry key="..\:/Users/Julmot/AndroidStudioProjects/proyecto101/app/src/main/res/layout/activity_gatherer.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/Julmot/AndroidStudioProjects/proyecto101/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/Julmot/AndroidStudioProjects/proyecto101/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Julmot/AndroidStudioProjects/proyecto101/app/src/main/res/layout/activity_register.xml" value="0.1693840579710145" />
         <entry key="..\:/Users/Julmot/AndroidStudioProjects/proyecto101/app/src/main/res/layout/activity_registro_de_materiales.xml" value="0.22" />
         <entry key="..\:/Users/Julmot/AndroidStudioProjects/proyecto101/app/src/main/res/layout/gatherer_items.xml" value="0.17844202898550723" />
         <entry key="..\:/Users/Julmot/AndroidStudioProjects/proyecto101/app/src/main/res/layout/list_item.xml" value="0.25" />
